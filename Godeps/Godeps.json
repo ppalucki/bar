@@ -1,0 +1,12 @@
+{
+	"ImportPath": "github.com/ppalucki/bar",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v62",
+	"Deps": [
+		{
+			"ImportPath": "github.com/pkg/errors",
+			"Comment": "v0.5.0",
+			"Rev": "abe54b4badbc003dbbf7c287f51751f5286d3801"
+		}
+	]
+}
