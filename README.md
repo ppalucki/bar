@@ -1,5 +1,5 @@
-# example of k8s client vendoring 
+# example of k8s client vendoring lib
 
 ```
-go get github.com/ppalucki/bar
+go get github.com/ppalucki/foo
 ```
